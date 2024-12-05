@@ -23,3 +23,7 @@ This book is created using open source tools: it is a JupyterBook that is writte
 ## About the Editors
 
 ### Acknowledgements
+
+### Test Citation and References
+
+Here is an inline citation {cite:p}`jason_moore`. This one refers to {cite:t}`jason_moore` as cite t.
