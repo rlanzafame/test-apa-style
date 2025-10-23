@@ -32,11 +32,8 @@ sphinx:
     bibtex_default_style: myapastyle
     bibtex_reference_style: author_year_round
   extra_extensions:
-    - sphinx.ext.imgconverter
-    - jupyterbook_patches
-    - download_link_replacer
-    - sphinx.ext.extlinks
-    - sphinx_image_inverter
+    - teachbooks_favourites
+    - sphinx_tudelft_theme
   local_extensions:
     apastyle: _ext/
     bracket_citation_style: _ext/

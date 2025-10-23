@@ -9,3 +9,6 @@ download_link_replacer
 sphinx-thebe ~= 0.9.9
 
 # docutils==0.17.1
+
+git+https://github.com/TeachBooks/TeachBooks-Favourites
+sphinx-tudelft-theme
